@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/borayuret/nodejs-login/issues"
   },
-  "homepage": "https://github.com/borayuret/nodejs-login#readme"
+  "homepage": "https://github.com/borayuret/nodejs-login#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
 }
